@@ -1,2 +1,4 @@
 # git-learning
-Just for leaning purpose  
+Just for learning purposes  
+<br>
+Author shohel rana shihab
